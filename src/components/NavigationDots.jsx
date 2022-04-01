@@ -6,9 +6,8 @@ const NavigationDots = ({ active }) => {
       {[
         "home",
         "about",
-        "contact",
         "work",
-        "skils",
+        "skills",
         "testimonials",
         "contact",
       ].map((item, index) => (
